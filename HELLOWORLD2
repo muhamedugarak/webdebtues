@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1>Hello World!</h1>
+<h2>I've always been a fan of cats. However my mom never let me get a house cat while I was living with her. Once I got my own place, I have adopted two tabby cats. 
+    One is a boy named Vega, who is about sixteen months old. The younger is a girl, her name is Tigra, and she is about seven months old. 
+    They are the sweetest cats when they aren't chasing each other around and play fighting at 2 in the morning. I've went through quite a few nights of broken sleep, but it is a price I've accepted to pay for my two little companions.</h2>
+
+<body>
+    <img src="img/tabby-cat-names.jpg">
+
+    <h3>The two below are my cats</h3>
+    <img src="img/CATS.jpg">
+</body>
+</html>
